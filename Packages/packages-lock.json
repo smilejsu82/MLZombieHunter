@@ -70,7 +70,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:D:/workspace/Unity/git-ml-agents/ml-agents/com.unity.ml-agents",
+      "version": "file:/Users/smilejsu/Workspace/Unity/ml-agents/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {

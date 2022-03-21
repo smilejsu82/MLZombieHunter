@@ -1,0 +1,65 @@
+{
+    "MLHunter1": {
+        "checkpoints": [
+            {
+                "steps": 3499991,
+                "file_path": "results/MLHunter1_01_01/MLHunter1/MLHunter1-3499991.onnx",
+                "reward": 0.9465460446145799,
+                "creation_time": 1647864889.268963,
+                "auxillary_file_paths": [
+                    "results/MLHunter1_01_01/MLHunter1/MLHunter1-3499991.pt"
+                ]
+            },
+            {
+                "steps": 3999991,
+                "file_path": "results/MLHunter1_01_01/MLHunter1/MLHunter1-3999991.onnx",
+                "reward": 0.9533009733472552,
+                "creation_time": 1647865746.598409,
+                "auxillary_file_paths": [
+                    "results/MLHunter1_01_01/MLHunter1/MLHunter1-3999991.pt"
+                ]
+            },
+            {
+                "steps": 4499999,
+                "file_path": "results/MLHunter1_01_01/MLHunter1/MLHunter1-4499999.onnx",
+                "reward": 0.9774262406786934,
+                "creation_time": 1647866607.352857,
+                "auxillary_file_paths": [
+                    "results/MLHunter1_01_01/MLHunter1/MLHunter1-4499999.pt"
+                ]
+            },
+            {
+                "steps": 4999994,
+                "file_path": "results/MLHunter1_01_01/MLHunter1/MLHunter1-4999994.onnx",
+                "reward": 0.9722000132907521,
+                "creation_time": 1647867465.1162229,
+                "auxillary_file_paths": [
+                    "results/MLHunter1_01_01/MLHunter1/MLHunter1-4999994.pt"
+                ]
+            },
+            {
+                "steps": 5000008,
+                "file_path": "results/MLHunter1_01_01/MLHunter1/MLHunter1-5000008.onnx",
+                "reward": 0.9729428706424577,
+                "creation_time": 1647867465.2286599,
+                "auxillary_file_paths": [
+                    "results/MLHunter1_01_01/MLHunter1/MLHunter1-5000008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000008,
+            "file_path": "results/MLHunter1_01_01/MLHunter1.onnx",
+            "reward": 0.9729428706424577,
+            "creation_time": 1647867465.2286599,
+            "auxillary_file_paths": [
+                "results/MLHunter1_01_01/MLHunter1/MLHunter1-5000008.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0.dev0",
+        "torch_version": "1.8.1"
+    }
+}
